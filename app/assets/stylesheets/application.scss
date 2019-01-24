@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+.dark-bar {
+  background-color: black;
+  text-color: white;
+}
+.pages{
+  .container{
+    background-color: green;
+    }
+}
+
+
+.products{
+  .container{
+      background-color: yellow;
+    }
+}
